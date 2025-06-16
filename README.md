@@ -16,7 +16,7 @@ A simple yet handy Python desktop app to **capture screenshots with a custom fil
 
 ## 🖥️ Preview
 
-![screenshot](https://via.placeholder.com/600x300?text=Screenshot+Tool+GUI)
+![screenshot](Screenshot.png)
 
 
 ---
