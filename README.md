@@ -76,22 +76,3 @@ Just two lines to capture and view the screenshot after the specified delay!
 
 ---
 
-## 🙌 Contributions
-
-Feel free to:
-
-* Add region-based screen capture
-* Add image format options (e.g., JPG, BMP)
-* Enhance UI with themes or custom widgets
-
-Pull requests welcome!
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License.
-
----
-
-Let me know if you’d like a [Markdown badge set](f) or a [Python-packaged version](f) too!
